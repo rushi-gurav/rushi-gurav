@@ -2,9 +2,9 @@
 - 👀 I’m interested in WEBDEVELOPMENT
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me : rushig143 on Discord
+- 😄 Pronouns: Rushi
+@ learning and contributing in Open Source @
 
 <!---
 rushi-gurav/rushi-gurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
